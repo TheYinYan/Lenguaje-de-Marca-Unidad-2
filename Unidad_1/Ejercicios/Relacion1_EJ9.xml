@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<catalog xmlns:dc="http://purl.org/dc/elementos/1.1">
-    
-</catalog>
+<catalogo xmlns:dc="http://purl.org/dc/elementos/1.1">
+    <libro isbn="1">
+        <titulo>El Quijote</titulo>
+        <dc:publisher>Anaya</dc:publisher>
+        <dc:date>1605</dc:date>
+    </libro>
+</catalogo>
