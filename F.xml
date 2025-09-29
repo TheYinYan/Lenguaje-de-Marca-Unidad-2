@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Raiz>
+  <table>
+    <tr>
+        <td>Platano</td>
+        <td>Manzana</td>
+    </tr>
+    <tr>
+        <td>Fresa</td>
+        <td>Sandia</td>
+    </tr>
+    </table>
+    <table>
+        <name>Mesa Aparador IKEA</name>
+        <color>Negro</color>
+        <material></material>
+    </table>  
+</Raiz>
