@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "agenda.dtd">
+
+<agenda>
+    <contacto>
+        <nombre>Juan Pérez</nombre>  
+        <nacimiento>15/04/1990</nacimiento>
+        <telefono>980705624</telefono>
+        <email>JuanPerez1504@gmail.com</email>
+        <nacionalidad>Española</nacionalidad>
+    </contacto>
+
+    <contacto>
+        <nombre>María Gómez</nombre> 
+        <nacimiento>22/11/1985</nacimiento>
+        <telefono>987654321</telefono>
+        <email>MariaGomez2211@gmail.com</email>
+        <nacionalidad>Española</nacionalidad>
+    </contacto>
+</agenda>
