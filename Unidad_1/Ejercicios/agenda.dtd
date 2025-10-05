@@ -5,3 +5,5 @@
 <!ELEMENT email (#PCDATA)>
 <!ELEMENT nacionalidad (#PCDATA)>
 <!ELEMENT nacimiento (#PCDATA)>
+
+<!ATTLIST contacto id CDATA #REQUIRED>

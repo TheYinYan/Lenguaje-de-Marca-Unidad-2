@@ -2,7 +2,7 @@
 <!DOCTYPE agenda SYSTEM "agenda.dtd">
 
 <agenda>
-    <contacto>
+    <contacto id="1">
         <nombre>Juan Pérez</nombre>  
         <nacimiento>15/04/1990</nacimiento>
         <telefono>980705624</telefono>
@@ -10,7 +10,7 @@
         <nacionalidad>Española</nacionalidad>
     </contacto>
 
-    <contacto>
+    <contacto id="2">
         <nombre>María Gómez</nombre> 
         <nacimiento>22/11/1985</nacimiento>
         <telefono>987654321</telefono>
