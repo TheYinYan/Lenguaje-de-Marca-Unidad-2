@@ -1,9 +1,0 @@
-<!ELEMENT agenda (contacto+)>
-<!ELEMENT contacto (nombre,nacimiento, telefono, email, nacionalidad)>
-<!ELEMENT nombre (#PCDATA)>
-<!ELEMENT telefono (#PCDATA)>
-<!ELEMENT email (#PCDATA)>
-<!ELEMENT nacionalidad (#PCDATA)>
-<!ELEMENT nacimiento (#PCDATA)>
-
-<!ATTLIST contacto id CDATA #REQUIRED>
