@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE banco SYSTEM "info.dtd">
 <banco>
-    <sucursal codigo="1">
-        <cuenta codigo="1">
+    <sucursal codigo="S01">
+        <cuenta codigo="C01">
             <cliente DNI="77890881W">
                 <nombre>Pepe</nombre>
                 <apellidos>Ruiz Martin</apellidos>
@@ -22,7 +22,7 @@
             </cliente>
         </cuenta>
 
-        <cuenta codigo="2">
+        <cuenta codigo="C02">
             <cliente DNI="77965579H">
                 <nombre>Ana</nombre>
                 <apellidos>López García</apellidos>
@@ -34,8 +34,8 @@
         </cuenta>
     </sucursal>
 
-    <sucursal codigo="2">
-        <cuenta codigo="1">
+    <sucursal codigo="S02">
+        <cuenta codigo="C01">
             <cliente DNI="12345678A">
                 <nombre>Laura</nombre>
                 <apellidos>Pérez Sánchez</apellidos>
@@ -55,7 +55,7 @@
             </cliente>
         </cuenta>
 
-        <cuenta codigo="2">
+        <cuenta codigo="C02">
             <cliente DNI="45678912C">
                 <nombre>María</nombre>
                 <apellidos>Fernández López</apellidos>
