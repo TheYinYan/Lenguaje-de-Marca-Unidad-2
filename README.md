@@ -167,9 +167,9 @@
 
     Requisitos:
 
-    - Usa la etiqueta <table> para crear la tabla.
+    - Usa la etiqueta ***table*** para crear la tabla.
     
-    - Aplica estilos a las celdas (<th>, <td>) usando propiedades de CSS como border, padding y background-color.
+    - Aplica estilos a las celdas (***th***, ***td***) usando propiedades de CSS como border, padding y background-color.
     
     - Usa colores diferentes para los encabezados de la tabla y resalta el plan recomendado.
 
