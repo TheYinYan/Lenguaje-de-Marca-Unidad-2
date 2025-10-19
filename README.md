@@ -29,7 +29,7 @@
 
     Crea una página web con el siguiente texto formateado tal cual puedes ver en la imagen de la derecha.<br> En este ejercicio no debes usar CSS
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-2.png)
 
 - [Ejercicio 3](/Unidad_2/Relacion_Ej_00/Ejercicio-3/Ejercicio_3.html)
 
