@@ -15,15 +15,53 @@ body {
     background: #f0f0f0;
 }
 
-header, footer{
+/*  Zona Principales */
+
+.cabecera{
     text-align: center;
     padding: 1rem;
 }
 
-main{
-    padding: 1rem;
-    background: blue;
-    width: min(900px,95%);
-    margin: 1rem 0;
-    border-radius: 10px;
+.titulo {
+    margin: 0;
+    color: #2C3E50;
 }
+
+#contenido-principal{
+    padding: 1rem;
+    
+}
+
+.tarjeta {
+    background: #fff;
+    border-radius:  12px;
+    width: min(900px, 95%);
+    margin: 1.5rem auto;
+    padding: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Listas y layout simple */
+
+.listas{
+    display: flex;
+    gap: 2rem; 
+    flex-wrap: wrap;   
+}
+.lista {
+    padding: 20px;
+}
+
+.listas li {
+    margin: 0.25rem 0;
+}
+
+/* Pie de Pagina */
+
+.pie {
+    text-align: center;
+    padding: 1rem;
+    color: #7f8c8d;
+    font-size: 14px;
+    background: #ecf0f1;
+}  
