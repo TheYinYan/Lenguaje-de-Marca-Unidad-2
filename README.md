@@ -1,17 +1,3 @@
-# UNIDAD 1 - Introducción a los lenguajes de marcas. XML
-
-![Imagen](/Imagenes/XML.png)
-
-## Ejercicios
-
-- [Ejercicio 9](/Unidad_1/Ejercicios/Relacion1_EJ9.xml)
-
-- [Ejercicio 10](/Unidad_1/Ejercicios/Relacion1_EJ10.xml)
-
-- [Ejercicio Banco](/Unidad_1/Ejercicios/banco.xml)
-
-  - [DTD de Banco](/Unidad_1/Ejercicios/info.dtd)
-
 # UNIDAD 2 - CONSTRUCCIÓN DE DOCUMENTOS WEB BÁSICOS CON HTML y CSS
 
 ![Imagen](/Imagenes/HTML_CSS.png)
