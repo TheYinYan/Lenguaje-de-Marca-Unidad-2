@@ -42,7 +42,7 @@
 
     En este ejercicio no debes usar CSS.
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-3.png)
 
 - [Ejercicio 4](/Unidad_2/Relacion_Ej_00/Ejercicio-4/Ejercicio_4.html)
 
