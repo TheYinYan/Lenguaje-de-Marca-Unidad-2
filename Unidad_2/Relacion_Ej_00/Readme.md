@@ -187,11 +187,11 @@
 
     Sin CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-8_sinCSS.png)
     
     Con CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-8_conCSS.png)
 
 
 ## Ejercicio 9
