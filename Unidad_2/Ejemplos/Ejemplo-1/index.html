@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,13 +8,26 @@
     <link rel="stylesheet" href="estilos.css">
     <title>GameZone</title>
 </head>
+
 <body>
     <header class="cabecera">
-        <h1 class="titulo">GameZone</h1>
+        <div class="brand">
+            <img class="logo" src="imagenes/gamezone-logo.png" alt="Logo de GameZone">
+            <!-- <h1 class="titulo">GameZone</h1> -->
+        </div>
+
+        <nav class="navegacion">
+            <ul class="menu">
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Noticia</a></li>
+                <li><a href="#">Guías</a></li>
+                <li><a href="#">Contactos</a></li>
+            </ul>
+        </nav>
     </header>
 
     <main id="contenido-principal">
-        
+
         <section class="intro tarjeta">
             <h2>Bienvenid@ a GameZone</h2>
             <p>Portal de ejemplo para practicar HTML y CSS.</p>
@@ -45,9 +59,9 @@
             <table class="tabla">
                 <thead>
                     <tr>
-                        <td>Juego</td>
-                        <td>Plataforma</td>
-                        <td>Unidades</td>
+                        <th>Juego</th>
+                        <th>Plataforma</th>
+                        <th>Unidades</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -77,4 +91,5 @@
     </footer>
 
 </body>
+
 </html>
