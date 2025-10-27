@@ -2,20 +2,26 @@
 
 [Readme Principal](/README.md)
 
-- [Ejercicio 1](/Unidad_2/Relacion_Ej_00/Ejercicio-1/Ejercicio_1.html)
+## Ejercicio 1
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-1/Ejercicio_1.html)
 
     A continuación, se te presenta un documento web con algunos errores de sintaxis y a nivel de
     estructura del documento web, corrígelos.
 
     ![Imagen](/Imagenes/Tema2/Ej-1.png)
 
-- [Ejercicio 2](/Unidad_2/Relacion_Ej_00/Ejercicio-2/Ejercicio_2.html)
+## Ejercicio 2
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-2/Ejercicio_2.html)
 
     Crea una página web con el siguiente texto formateado tal cual puedes ver en la imagen de la derecha.<br> En este ejercicio no debes usar CSS
 
     ![Imagen](/Imagenes/Tema2/Ej-2.png)
 
-- [Ejercicio 3](/Unidad_2/Relacion_Ej_00/Ejercicio-3/Ejercicio_3.html)
+## Ejercicio 3
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-3/Ejercicio_3.html)
 
     De cara a tener información de todos los empleados de una empresa en su intranet se necesitan ciertos datos en formato HTML. <br> 
     Los datos a incluir son:
@@ -42,7 +48,12 @@
 
     ![Imagen](/Imagenes/Tema2/Ej-3.png)
 
-- [Ejercicio 4](/Unidad_2/Relacion_Ej_00/Ejercicio-4/Ejercicio_4.html)
+## Ejercicio 4
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-4/Ejercicio_4.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-4/Ejercicio_4.css)
+
 
     Partiendo del ejercicio 03 haz los siguientes cambios:
 
@@ -61,7 +72,11 @@
 
     ![Imagen]()
 
-- [Ejercicio 5](/Unidad_2/Relacion_Ej_00/Ejercicio-5/Ejercicio_5.html)
+## Ejercicio 5
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-5/Ejercicio_5.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-5/Ejercicio_5.css)
 
     Partiendo de los rectángulos de la imagen 1 deberás conseguir mediante CSS que esos
     rectángulos queden como en la segunda imagen modificando sus bordes. <br> 
@@ -75,7 +90,12 @@
 
     ![Imagen]()
 
-- [Ejercicio 6](/Unidad_2/Relacion_Ej_00/Ejercicio-6/Ejercicio_6.html)
+## Ejercicio 6 
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-6/Ejercicio_6.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-6/Ejercicio_6.css)
+
 
     Página de presentación personal. <br>
     Crea una página web simple que actúe como una presentación personal haciendo uso de HTML5 y CSS. 
@@ -104,7 +124,13 @@
 
     ![Imagen]()
 
-- [Ejercicio 7](/Unidad_2/Relacion_Ej_00/Ejercicio-7/Ejercicio_7.html)
+
+## Ejercicio 7
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-7/Ejercicio_7.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-7/Ejercicio_7.css)
+
 
     Diseño de una tarjeta de producto. <br>
     Crea una tarjeta de producto que incluya una imagen, título, descripción y precio. <br>
@@ -145,7 +171,11 @@
     ![Imagen]()
 
 
-- [Ejercicio 8](/Unidad_2/Relacion_Ej_00/Ejercicio-8/Ejercicio_8.html)
+## Ejercicio 8
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-8/Ejercicio_8.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-8/Ejercicio_8.css)
 
     Tabla de precios. <br>
     Crea una tabla de precios para un servicio, donde se comparen tres planes diferentes. <br>
@@ -172,7 +202,11 @@
     ![Imagen]()
 
 
-- [Ejercicio 9](/Unidad_2/Relacion_Ej_00/Ejercicio-9/Ejercicio_9.html)
+## Ejercicio 9
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-9/Ejercicio_9.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-9/Ejercicio_9.css)
 
     Formulario de registro simple. <br>
     Crea un formulario de registro que incluya campos como nombre, correo electrónico, contraseña, y un botón de envío.
@@ -196,7 +230,11 @@
     ![Imagen]()
 
 
-- [Ejercicio 10](/Unidad_2/Relacion_Ej_00/Ejercicio-10/Ejercicio_10.html)
+## Ejercicio 10
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-10/Ejercicio_10.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-10/Ejercicio_10.css)
 
     Crea una página web utilizando HTML5 y CSS que muestre información sobre diferentes redes sociales. 
 
@@ -273,7 +311,11 @@
   ![Imagen]()
 
 
-- [Ejercicio 11](/Unidad_2/Relacion_Ej_00/Ejercicio-11/Ejercicio_11.html)
+## Ejercicio 11
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-11/Ejercicio_11.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-11/Ejercicio_11.css)
 
     Crea la siguiente página web capaz de reproducir las canciones de los juegos de The Legend of Zelda – Link’s Awakening DX y de Super Mario Bros. 
     
@@ -292,7 +334,11 @@
   ![Imagen]()
 
 
-- [Ejercicio 12](/Unidad_2/Relacion_Ej_00/Ejercicio-12/Ejercicio_12.html)
+## Ejercicio 12
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-12/Ejercicio_12.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-12/Ejercicio_12.css)
 
     Crea una página que permita reproducir vídeos. 
     Deberás reproducir el vídeo billgates.mp4 de las siguientes formas:
@@ -304,7 +350,11 @@
   ![Imagen]()
 
 
-- [Ejercicio 13](/Unidad_2/Relacion_Ej_00/Ejercicio-13/Ejercicio_13.html)
+## Ejercicio 13
+
+- [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-13/Ejercicio_13.html)
+
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-13/Ejercicio_13.css)
 
     Uniendo todo.
 
