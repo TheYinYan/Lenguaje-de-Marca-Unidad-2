@@ -118,11 +118,11 @@
 
     Sin CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-6_sinCSS.png)
     
     Con CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-6_conCSS.png)
 
 
 ## Ejercicio 7
@@ -154,21 +154,13 @@
 
     Todas las imágenes deberán tener su texto alternativo.
 
-    Parte 1:
-
-    ![Imagen]()
-
-    Parte 2:
-
-    ![Imagen]()
-
     Sin CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-7_sinCSS.png)
     
     Con CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-7_conCSS.png)
 
 
 ## Ejercicio 8
