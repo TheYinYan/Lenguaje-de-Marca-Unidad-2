@@ -66,17 +66,17 @@
     
     Sin CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-4_SinCSS.png)
     
     Con CSS:
 
-    ![Imagen]()
+    ![Imagen](/Imagenes/Tema2/Ej-4_conCSS.png)
 
 ## Ejercicio 5
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-5/Ejercicio_5.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-5/Ejercicio_5.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-5/style.css)
 
     Partiendo de los rectángulos de la imagen 1 deberás conseguir mediante CSS que esos
     rectángulos queden como en la segunda imagen modificando sus bordes. <br> 
@@ -94,7 +94,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-6/Ejercicio_6.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-6/Ejercicio_6.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-6/style.css)
 
 
     Página de presentación personal. <br>
@@ -129,7 +129,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-7/Ejercicio_7.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-7/Ejercicio_7.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-7/style.css)
 
 
     Diseño de una tarjeta de producto. <br>
@@ -175,7 +175,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-8/Ejercicio_8.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-8/Ejercicio_8.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-8/style.css)
 
     Tabla de precios. <br>
     Crea una tabla de precios para un servicio, donde se comparen tres planes diferentes. <br>
@@ -206,7 +206,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-9/Ejercicio_9.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-9/Ejercicio_9.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-9/style.css)
 
     Formulario de registro simple. <br>
     Crea un formulario de registro que incluya campos como nombre, correo electrónico, contraseña, y un botón de envío.
@@ -234,7 +234,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-10/Ejercicio_10.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-10/Ejercicio_10.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-10/style.css)
 
     Crea una página web utilizando HTML5 y CSS que muestre información sobre diferentes redes sociales. 
 
@@ -315,7 +315,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-11/Ejercicio_11.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-11/Ejercicio_11.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-11/style.css)
 
     Crea la siguiente página web capaz de reproducir las canciones de los juegos de The Legend of Zelda – Link’s Awakening DX y de Super Mario Bros. 
     
@@ -338,7 +338,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-12/Ejercicio_12.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-12/Ejercicio_12.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-12/style.css)
 
     Crea una página que permita reproducir vídeos. 
     Deberás reproducir el vídeo billgates.mp4 de las siguientes formas:
@@ -354,7 +354,7 @@
 
 - [HTML](/Unidad_2/Relacion_Ej_00/Ejercicio-13/Ejercicio_13.html)
 
-- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-13/Ejercicio_13.css)
+- [CSS](/Unidad_2/Relacion_Ej_00/Ejercicio-13/style.css)
 
     Uniendo todo.
 
