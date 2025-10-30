@@ -83,7 +83,35 @@
                 </tbody>
             </table>
         </section>
+        <section class="tarjeta">
+            <form name="buscar" action="buscar.html" method="get">
+                <label for="busqueda">Buscar Juego:</label>
+                <input type="search" name="busqueda" id="busqueda" placeholder="Escribe título" required>
+                <button type="submit">Buscar</button>
+            </form>
+        </section>
+        <section class="tarjeta">
+            <h2>Reguitro de usuario</h2>
+            <form name="reguiter" action="registro.html" method="post">
+                <!-- Campo texto -->
+                <label for="nombre">Nombre:</label>
+                <input type="text" name="name" id="nombre" required>
 
+                <!-- Campo password -->
+                <label for="clave">Contraseña:</label>
+                <input type="password" name="pass" id="clave" minlength="6" maxlength="12" required>
+
+                <!-- Campo número -->
+                <label for="edad">Edad:</label>
+                <input type="number" name="age" id="edad" min="0">
+
+                <!-- Campo DNI  -->
+                <br>
+                <label for="dni">DNI</label>                
+                <input type="text" name="id" id="dni" pattern="[0-9]{8}[A-Za-z]{1}" required>
+                <button type="submit">Registrar</button>
+            </form>
+        </section>
     </main>
 
     <footer class="pie">
