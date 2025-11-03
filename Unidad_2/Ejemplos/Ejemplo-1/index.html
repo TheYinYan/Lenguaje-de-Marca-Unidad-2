@@ -107,9 +107,32 @@
 
                 <!-- Campo DNI  -->
                 <br>
-                <label for="dni">DNI</label>                
-                <input type="text" name="id" id="dni" pattern="[0-9]{8}[A-Za-z]{1}" required>
+                <label for="dni">DNI/NIE: </label>                
+                <input type="text" name="id" id="dni" pattern="([X-Zx-z]|[0-9])[0-9]{7}[A-Za-z]" required>
                 <button type="submit">Registrar</button>
+            </form>
+        </section>
+        <section class="tarjeta">
+            <form name="contacto" action="contacto.php" method="post" autocomplete="off">
+                <label for="categoria">Categoria de juego:</label>
+                <select name="categoria" id="categoria">
+                    <option disabled selected>-Seleciona Categoria-</option>
+                    <option value="rol">Rol</option>
+                    <option value="aventura">Aventura</option>
+                    <option value="deportes">Deportes</option>
+                </select>
+
+                <p>Plataforma</p>
+                <label><input type="radio" name="plataforma" value="pc" required>PC</label>
+                <label><input type="radio" name="plataforma" value="ps5">PS5</label>
+
+                <p>Subscribirse a noticias:</p>
+                <label><input type="checkbox" name="plataforma" checked>Si</label>
+
+                <!-- El hidden se utiliza para enviar datos no visible al usuario -->
+                <input type="hidden" name="pruducto-id" value="1234">
+
+                <input type="submit" value="Contactar">
             </form>
         </section>
     </main>
