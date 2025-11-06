@@ -1,5 +1,6 @@
 /* Cuerpo de la página */
 body {
+  min-height: 100vh;
   height: 100%;
   margin: 0;
   box-sizing: border-box;
@@ -23,6 +24,7 @@ body {
 /* Contenido principal */
 .contenido-principal {
   padding: 2rem;
+  flex-grow: 1;
 }
 
 /* Formulario */
@@ -33,6 +35,7 @@ body {
   border-radius: 7px;
   width: 400px;
 }
+
 /* Leyenda */
 .form-registro legend {
   color: darkblue;
@@ -48,28 +51,33 @@ body {
   margin-bottom: 5px;
   padding: 8px;
 }
+
 /* Elemento de la imagen de la incidencia del formulario */
-.elemento-formulario input[type="file"] {
+.file {
   display: flex;
   flex-direction: column;
+  align-items: left;
   gap: 10px;
 }
 
-.elemento-formulario input[type="submit"],
-.elemento-formulario input[type="reset"] {
+.button{
   text-align: center;
-  align-items: center;
+  justify-content: center;
   gap: 10px;
+  margin-top: 10px;
 }
+
 .pie {
   background-color: #333;
   color: white;
   text-align: center;
   padding: 5px;
 }
+
 .pie h3 {
   color: #f7c600;
 }
+
 .pie a {
   color: white;
   text-decoration: none;
