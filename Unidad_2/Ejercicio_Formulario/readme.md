@@ -6,8 +6,11 @@
 
 - [HTML Index](/Unidad_2/Ejercicio_Formulario/index.html)
 
-- [HTML Formulario](/Unidad_2/Ejercicio_Formulario/formulario.html)
+- [HTML Cuenta](/Unidad_2/Ejercicio_Formulario/page/formulario.html)
 
-- [HTML Contactos](/Unidad_2/Ejercicio_Formulario/Contacto.html)
+- [HTML Contactos](/Unidad_2/Ejercicio_Formulario/page/Contacto.html)
+
+- [HTML Tienda](/Unidad_2/Ejercicio_Formulario/page/tienda.html)
+
 
 - [CSS](/Unidad_2/Ejercicio_Formulario/estilos.css)
