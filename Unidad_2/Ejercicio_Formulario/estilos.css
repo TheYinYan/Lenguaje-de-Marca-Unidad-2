@@ -177,7 +177,7 @@ table{
 }
 
 .card{
-    width: 280px;
+    width: 350px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     background-color: #fff;
     text-align: center;
@@ -202,7 +202,8 @@ table{
 .card-descripcion{
     font-size: 0.9rem;
     color: #666;
-    height: 12.6em;
+    min-height: 8.5em;
+    text-align: left;
 }
 
 .card-precio{
@@ -223,15 +224,66 @@ table{
     background-color: #502c42;
 }
 
-.contenedor-grid{
+.parent{
+    height: 700px;
     display: grid;
-    grid-template-columns: 200px 200px 200px;
-    grid-template-rows: 100px 100px;
+    /* Primero los rows y luego column */
+    grid-template: 100px 1fr 60px / 200px 2fr 1fr;
     gap: 10px;
-    background-color: #eaeaea;
-    padding: 10px;
+    grid-template-areas: 
+    "header header  header"
+    "nav    main    aside" 
+    "footer footer  footer"
 }
 
-.contenedor-grid:nth-child(1){
-    background-color: #b60000;
+.area-header{
+    background-color: blue;
+    grid-area: header;
+}
+.area-nav{
+    background-color: aqua;
+    grid-area: nav;
+}
+.area-main{
+    background-color: green;
+    grid-area: main;
+}
+.area-aside{
+    background-color: red;
+    grid-area: aside;
+}
+.area-footer{
+    background-color: orange;
+    grid-area: footer;
+}
+
+
+.contenedor-grid{
+    display: grid;
+    grid-template-columns: repeat(3,150px);
+    grid-template-rows: repeat(4,100px);
+    /* grid-template: 100px 100px / 200px 200px 200px;  Atajo de lo de ariba */ 
+    gap: 10px;
+    background-color: #aeaeae;
+    padding: 10px;
+
+    /* Alinecacio de cada celda */
+    justify-items: stretch;
+    align-items: stretch;
+
+    /* Horizontal
+    justify-content: center;
+    /* Vertical */
+    /* align-content: center; */
+}
+.item-grid {background-color: goldenrod;}
+
+.item-3{
+    background-color:purple;
+    justify-self: center;
+    align-self: center;
+    order: -1;
+}
+.item-1{
+    order: 1;
 }
