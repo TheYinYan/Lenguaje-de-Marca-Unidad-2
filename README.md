@@ -2,9 +2,6 @@
 
 ![Imagen](/Imagenes/HTML_CSS.png)
 
-- [HTML Index](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica05/index.html)
-
-
 - [Ejemplos](/Unidad_2/Ejemplos/Readme.md)
 
 - [RELACION EJERCICIOS 00](/Unidad_2/Relacion_Ej_00/Readme.md)
