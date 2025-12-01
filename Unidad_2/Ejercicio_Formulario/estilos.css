@@ -53,6 +53,12 @@ body {
     color: #E74C3C;
 }
 
+.activo{
+    color: #E74C3C;
+    border-bottom: 2px solid #E74C3C;
+    padding-bottom: 0.2rem;
+}
+
 .contenido-principal {
     padding: 1rem;
     flex-grow: 1;
