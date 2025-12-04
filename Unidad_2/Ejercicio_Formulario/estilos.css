@@ -126,7 +126,7 @@ body {
     border: 4px solid cyan;
     border-radius: 7px;
     padding: 1rem;
-    width: 380px;
+    width: 400px;
     display: flex;
     flex-direction: column;
     gap: 10px;
