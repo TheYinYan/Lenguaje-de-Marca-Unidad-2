@@ -391,6 +391,48 @@ table {
     margin: 0 auto;
 }
 
+/* =========================
+   TARJETAS DE VÍDEO Y AUDIO
+   ========================= */
+.video-card,
+.audio-card {
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 10px;   /* superior 10px */
+  margin-bottom: 0;   /* inferior 0 */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.video-card h2,
+.audio-card h2 {
+  text-align: center;
+  margin-top: 20px;
+  color: #444;
+}
+
+/* Vídeos y audios */
+video,
+audio {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto 10px auto; /* centrado, margen inferior 10px */
+  border-radius: 5px;
+}
+
+/* Iframe del vídeo de YouTube */
+.video-card iframe {
+  display: block;
+  width: 560px;
+  height: 315px;
+  max-width: 100%;
+  margin: 0 auto 10px auto;
+  border-radius: 5px;
+}
+
 /* Media queri para otro dispositivos */
 @media (768px <=width) and (width < 1024px) {
     .tarjeta.tarjeta.juego {
