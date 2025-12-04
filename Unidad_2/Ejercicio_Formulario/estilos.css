@@ -358,30 +358,30 @@ table {
 .guias-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap:  1.5rem;
+    gap: 1.5rem;
 }
 
-.guia-video h3{
+.guia-video h3 {
     font-size: 1rem;
     margin-bottom: 0.5rem;
 }
 
-.guia-video iframe{
+.guia-video iframe {
     width: 100%;
     aspect-ratio: 13/9;
     border: 0;
     border-radius: 8px;
 }
 
-.contacto-ubucacion{
+.contacto-ubucacion {
     margin-top: 2rem;
 }
 
-.mapa-contenedor{
+.mapa-contenedor {
     margin-top: 1rem;
 }
 
-.mapa-contenedor iframe{
+.mapa-contenedor iframe {
     width: 100%;
     max-width: 600px;
     height: 350px;
@@ -396,41 +396,84 @@ table {
    ========================= */
 .video-card,
 .audio-card {
-  background-color: #ffffff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 10px;
-  margin-top: 10px;   /* superior 10px */
-  margin-bottom: 0;   /* inferior 0 */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  text-align: center;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 10px;
+    /* superior 10px */
+    margin-bottom: 0;
+    /* inferior 0 */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
 }
 
 .video-card h2,
 .audio-card h2 {
-  text-align: center;
-  margin-top: 20px;
-  color: #444;
+    text-align: center;
+    margin-top: 20px;
+    color: #444;
 }
 
 /* Vídeos y audios */
 video,
 audio {
-  display: block;
-  width: 100%;
-  max-width: 500px;
-  margin: 0 auto 10px auto; /* centrado, margen inferior 10px */
-  border-radius: 5px;
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 10px auto;
+    /* centrado, margen inferior 10px */
+    border-radius: 5px;
 }
 
 /* Iframe del vídeo de YouTube */
 .video-card iframe {
-  display: block;
-  width: 560px;
-  height: 315px;
-  max-width: 100%;
-  margin: 0 auto 10px auto;
-  border-radius: 5px;
+    display: block;
+    width: 560px;
+    height: 315px;
+    max-width: 100%;
+    margin: 0 auto 10px auto;
+    border-radius: 5px;
+}
+
+/* ===== Layout especial para la página de Guías ===== */
+
+/* Contenedor principal: menú lateral + contenido en fila */
+.layout-guias .layout-guias-contenido {
+    display: flex;
+    flex: 1;
+    min-height: 100vh;
+}
+
+/* Menú lateral */
+.layout-guias .navega-lateral {
+    background: #34495E;
+    padding: 1rem 0.5rem;
+    min-width: 220px;
+}
+
+/* Menú en columna solo en la página de Guías */
+.layout-guias .navega-lateral .menu {
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+/* Enlaces del menú lateral ocupan todo el ancho */
+.layout-guias .navega-lateral .menu a {
+    display: block;
+    padding: 0.4rem 0.8rem;
+    border-radius: 4px;
+}
+
+.layout-guias .navega-lateral .menu a:hover {
+    background: #2C3E50;
+    color: #E74C3C;
+}
+
+/* El main se expande para ocupar el resto del espacio */
+.layout-guias #contenido-principal {
+    flex: 1;
+    padding: 1.5rem;
 }
 
 /* Media queri para otro dispositivos */
