@@ -25,3 +25,7 @@
 ## Práctica 05
 
 - [Readme Tienda](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica05/readme.md)
+
+## PRÁCTICA 06
+
+- [Readme Mapas](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica06/readme.md)
