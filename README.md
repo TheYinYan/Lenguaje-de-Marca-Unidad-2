@@ -29,3 +29,7 @@
 ## PRÁCTICA 06
 
 - [Readme Mapas](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica06/readme.md)
+
+## PRÁCTICA 07
+
+- [Readme Mapas](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica07/readme.md)
