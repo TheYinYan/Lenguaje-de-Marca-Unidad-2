@@ -32,4 +32,4 @@
 
 ## PRÁCTICA 07
 
-- [Readme Mapas](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica07/readme.md)
+- [Readme MyTube](/Unidad_2/LMSGI_SamuelRuizMartin_UD02_Practica07/readme.md)
